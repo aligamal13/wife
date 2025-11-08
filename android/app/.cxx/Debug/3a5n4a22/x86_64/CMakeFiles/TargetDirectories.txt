@@ -1,0 +1,2 @@
+D:/flutter work/wife_flutter/android/app/.cxx/Debug/3a5n4a22/x86_64/CMakeFiles/edit_cache.dir
+D:/flutter work/wife_flutter/android/app/.cxx/Debug/3a5n4a22/x86_64/CMakeFiles/rebuild_cache.dir
